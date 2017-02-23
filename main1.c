@@ -6,15 +6,11 @@
  */
 
 
-
-ganaasknflanklawnknkwfwwwwe
-asegfaw
-gaw
-gawgawg
+qwtqwtqwt
 awgaw
-gawgawg
-
-  status = DAVE_Init();           /* Initialization of DAVE APPs  */
+gawgawgwwtqw
+wtqwetqwetqwt
+  status = DAVE_Initwt();           /* Initialization of DAVE APPs  */
 
   if(status != DAVE_STATUS_SUCCESS)
   {
