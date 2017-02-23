@@ -7,22 +7,12 @@
 
 
 
-
-#include <DAVE.h>                 //Declarations from DAVE Code Generation (includes SFR declaration)
-
-/**
-
- * @brief main() - Application entry point
- *
- * <b>Details of function</b><br>
- * This routine is the application entry point. It is invoked by the device startup code. It is responsible for
- * invoking the APP initialization dispatcher routine - DAVE_Init() and hosting the place-holder for user application
- * code.
- */
-
-int main(void)
-{
-  DAVE_STATUS_t status;
+ganaasknflanklawnknkwfwwwwe
+asegfaw
+gaw
+gawgawg
+awgaw
+gawgawg
 
   status = DAVE_Init();           /* Initialization of DAVE APPs  */
 
