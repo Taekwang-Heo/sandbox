@@ -30,12 +30,11 @@ int main(void)
   {
     /* Placeholder for error handler code. The while loop below can be replaced with an user error handler. */
     XMC_DEBUG("DAVE APPs initialization failed\n");
+ZDgasdgsg
+sgasgsadfg
+sdfgsg
+sfgsg
 
-    while(1U)
-    {
-
-    }
-  }
 
   XMC_DEBUG("DAVE APPs initialization failed\n");
 
